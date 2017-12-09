@@ -1,4 +1,4 @@
 # HelloWorld
 
-Doing my first steps into DSP and programming world. Just learned Python and making my first steps.
+Just learned Python, making my first steps in the programming world.
 ;-)
